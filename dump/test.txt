@@ -1,0 +1,462 @@
+Array
+(
+    [count] => 1
+    [0] => Array
+        (
+            [objectclass] => Array
+                (
+                    [count] => 9
+                    [0] => qmailUser
+                    [1] => person
+                    [2] => organizationalPerson
+                    [3] => inetOrgPerson
+                    [4] => posixAccount
+                    [5] => shadowAccount
+                    [6] => sambaAccount
+                    [7] => top
+                    [8] => iitbServiceUser
+                )
+
+            [0] => objectclass
+            [loginshell] => Array
+                (
+                    [count] => 1
+                    [0] => /bin/bash
+                )
+
+            [1] => loginshell
+            [uidnumber] => Array
+                (
+                    [count] => 1
+                    [0] => 44043
+                )
+
+            [2] => uidnumber
+            [employeenumber] => Array
+                (
+                    [count] => 1
+                    [0] => 120070008
+                )
+
+            [3] => employeenumber
+            [mailhost] => Array
+                (
+                    [count] => 1
+                    [0] => rp5.iitb.ac.in
+                )
+
+            [4] => mailhost
+            [mailquotasize] => Array
+                (
+                    [count] => 1
+                    [0] => 1000000000
+                )
+
+            [5] => mailquotasize
+            [homedirectory] => Array
+                (
+                    [count] => 1
+                    [0] => /data4/btech/2012/ee/120070008
+                )
+
+            [6] => homedirectory
+            [gidnumber] => Array
+                (
+                    [count] => 1
+                    [0] => 100007
+                )
+
+            [7] => gidnumber
+            [mailquotacount] => Array
+                (
+                    [count] => 1
+                    [0] => 0
+                )
+
+            [8] => mailquotacount
+            [deliverymode] => Array
+                (
+                    [count] => 1
+                    [0] => noforward
+                )
+
+            [9] => deliverymode
+            [shadowexpire] => Array
+                (
+                    [count] => 1
+                    [0] => 16999
+                )
+
+            [10] => shadowexpire
+            [webquota] => Array
+                (
+                    [count] => 1
+                    [0] => 0
+                )
+
+            [11] => webquota
+            [rid] => Array
+                (
+                    [count] => 1
+                    [0] => 1
+                )
+
+            [12] => rid
+            [employeetype] => Array
+                (
+                    [count] => 1
+                    [0] => ug
+                )
+
+            [13] => employeetype
+            [mailstatus] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [14] => mailstatus
+            [mailstatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [15] => mailstatusdesc
+            [ascstatus] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [16] => ascstatus
+            [ascstatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [17] => ascstatusdesc
+            [calendarstatus] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [18] => calendarstatus
+            [calendarstatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [19] => calendarstatusdesc
+            [glpistatus] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [20] => glpistatus
+            [glpistatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [21] => glpistatusdesc
+            [chatstatus] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [22] => chatstatus
+            [chatstatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [23] => chatstatusdesc
+            [application1status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [24] => application1status
+            [application1statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [25] => application1statusdesc
+            [application2status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [26] => application2status
+            [application2statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [27] => application2statusdesc
+            [application3status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [28] => application3status
+            [application3statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [29] => application3statusdesc
+            [application4status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [30] => application4status
+            [application4statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [31] => application4statusdesc
+            [application5status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [32] => application5status
+            [application5statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [33] => application5statusdesc
+            [application6status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [34] => application6status
+            [application6statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [35] => application6statusdesc
+            [application7status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [36] => application7status
+            [application7statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [37] => application7statusdesc
+            [application8status] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [38] => application8status
+            [application8statusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => default
+                )
+
+            [39] => application8statusdesc
+            [policy] => Array
+                (
+                    [count] => 1
+                    [0] => accept
+                )
+
+            [40] => policy
+            [accountstatus] => Array
+                (
+                    [count] => 1
+                    [0] => active
+                )
+
+            [41] => accountstatus
+            [newsstatus] => Array
+                (
+                    [count] => 1
+                    [0] => active
+                )
+
+            [42] => newsstatus
+            [newsstatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => IT policy accepted
+                )
+
+            [43] => newsstatusdesc
+            [netmonstatus] => Array
+                (
+                    [count] => 1
+                    [0] => active
+                )
+
+            [44] => netmonstatus
+            [netmonstatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => IT policy accepted
+                )
+
+            [45] => netmonstatusdesc
+            [bighomestatus] => Array
+                (
+                    [count] => 1
+                    [0] => active
+                )
+
+            [46] => bighomestatus
+            [bighomestatusdesc] => Array
+                (
+                    [count] => 1
+                    [0] => IT policy accepted
+                )
+
+            [47] => bighomestatusdesc
+            [mail] => Array
+                (
+                    [count] => 1
+                    [0] => kamalgalrani@iitb.ac.in
+                )
+
+            [48] => mail
+            [mailalternateaddress] => Array
+                (
+                    [count] => 1
+                    [0] => 120070008@iitb.ac.in
+                )
+
+            [49] => mailalternateaddress
+            [l] => Array
+                (
+                    [count] => 1
+                    [0] => True
+                )
+
+            [50] => l
+            [uid] => Array
+                (
+                    [count] => 1
+                    [0] => kamalgalrani
+                )
+
+            [51] => uid
+            [mailmessagestore] => Array
+                (
+                    [count] => 1
+                    [0] => /ug.mailboxes.4/2012/EE/120070008/
+                )
+
+            [52] => mailmessagestore
+            [cn] => Array
+                (
+                    [count] => 1
+                    [0] => Kamal Narendra Galrani
+                )
+
+            [53] => cn
+            [telephonenumber] => Array
+                (
+                    [count] => 1
+                    [0] => 0
+                )
+
+            [54] => telephonenumber
+            [mobile] => Array
+                (
+                    [count] => 1
+                    [0] => 0
+                )
+
+            [55] => mobile
+            [description] => Array
+                (
+                    [count] => 1
+                    [0] => blank
+                )
+
+            [56] => description
+            [facsimiletelephonenumber] => Array
+                (
+                    [count] => 1
+                    [0] => 0
+                )
+
+            [57] => facsimiletelephonenumber
+            [homepostaladdress] => Array
+                (
+                    [count] => 1
+                    [0] => 
+                )
+
+            [58] => homepostaladdress
+            [givenname] => Array
+                (
+                    [count] => 1
+                    [0] => Kamal Narendra
+                )
+
+            [59] => givenname
+            [gecos] => Array
+                (
+                    [count] => 1
+                    [0] => Kamal Narendra Galrani
+                )
+
+            [60] => gecos
+            [sn] => Array
+                (
+                    [count] => 1
+                    [0] => Galrani
+                )
+
+            [61] => sn
+            [homephone] => Array
+                (
+                    [count] => 1
+                    [0] => 0
+                )
+
+            [62] => homephone
+            [count] => 63
+            [dn] => uid=kamalgalrani,ou=ug,ou=EE,ou=people,dc=iitb,dc=ac,dc=in
+        )
+
+)
+120070008
+Kamal Narendra Galrani
+kamalgalrani
